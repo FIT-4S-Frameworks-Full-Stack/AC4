@@ -11,6 +11,7 @@ https://github.com/antoniodiasabc/sqlalchemy
 Execute ele com docker (na parte de banco de dados mysql) tire um print das tabelas project e project_manager  com os dados armazenados
 (o proprio projeto tem um passo a passo para execucao)
 
+<hr/>
 
 git clone https://github.com/antoniodiasabc/sqlalchemy
 

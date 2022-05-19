@@ -12,7 +12,6 @@ Execute ele com docker (na parte de banco de dados mysql) tire um print das tabe
 (o proprio projeto tem um passo a passo para execucao)
 
 
-
 git clone https://github.com/antoniodiasabc/sqlalchemy
 cd sqlalchemy/
 ls -lrt
@@ -22,7 +21,6 @@ docker ps
 docker exec -it 257d598cec09 /bin/bash
 mysql -uroot -p
 create schema teste;
-
 
 pip install sqlAlchemy
 pip install PyMySQL
